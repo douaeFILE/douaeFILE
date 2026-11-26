@@ -1,16 +1,69 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**douaeFILE/douaeFILE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=1F3A7A&height=180&section=header&text=Douae%20Laayouni&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Data%20Science%20%26%20IA%20G%C3%A9n%C3%A9rative&descAlignY=60&descSize=18)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1F3A7A&center=true&vCenter=true&width=600&lines=%C3%89l%C3%A8ve-ing%C3%A9nieure+en+Ing%C3%A9nierie+des+Donn%C3%A9es;LLM+%C2%B7+RAG+%C2%B7+Deep+Learning+%C2%B7+MLOps;%C3%80+la+recherche+d'un+stage+PFE+2027)](https://portfolio-douae-laayouni.vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-1F3A7A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-douae-laayouni.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laayouni-douae-8081a1252)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douae.laayouni@etu.uae.ac.ma)
+
+</div>
+
+## 👩‍💻 À propos
+
+- 🎓 Élève-ingénieure en **Ingénierie des Données** à l'**ENSA d'Al Hoceima (ENSAH)**, Maroc 🇲🇦
+- 🔭 Je construis des systèmes d'**IA générative** (LLM, RAG) et de **Deep Learning** appliqués à des besoins réels
+- 🧠 Ce qui me passionne : questionner les choix, challenger les métriques et chercher de meilleures solutions
+- 🎯 **Je recherche un stage PFE de 6 mois** en Data Science, à partir de janvier / février 2027
+
+## 🛠️ Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Flink](https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+## 🚀 Projets
+
+| Projet | Description | Technologies |
+|---|---|---|
+| 🧠 [**Détection de tumeurs cérébrales**](https://github.com/douaeFILE/NOM-DU-REPO) | Classification et segmentation d'IRM, avec rapports médicaux générés par RAG. Accuracy 96 %, Dice 0,87 | PyTorch · ConvNeXt Tiny · U-Net++ · Llama 3 · RAG |
+| 🌾 [**AgriYield MLOps**](https://github.com/douaeFILE/NOM-DU-REPO) | Prédiction du rendement agricole avec suivi de la dérive des données et ré-entraînement. R² 98,74 % | FastAPI · Evidently AI · Git · DVC |
+| 🚕 [**TaaSim**](https://github.com/douaeFILE/NOM-DU-REPO) | Plateforme Big Data temps réel pour affecter les taxis disponibles aux demandes clients | Kafka · Flink · Spark · MinIO · Cassandra · Grafana |
+| 💼 [**Job Intelligent**](https://github.com/douaeFILE/NOM-DU-REPO) | Centralisation et recommandation d'offres d'emploi Data (architecture Médaillon) | Spark · Airflow · MinIO · SQL Server · Power BI |
+
+## 💼 Expérience
+
+- **Marsa Maroc** (PFA, 2025–2026) : conception de **Marsa Smart Assistant**, un assistant interne RAG hybride avec accès selon le rôle (BGE-M3, Qdrant, BM25, Llama 3.2 via Ollama, FastAPI, React)
+- **Ferrimaroc** (stage d'initiation, 2024–2025) : analyse des données portuaires et modèle de prédiction des tonnages
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=douaeFILE&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=douaeFILE&layout=compact&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=1F3A7A&height=100&section=footer)
+
+</div>
